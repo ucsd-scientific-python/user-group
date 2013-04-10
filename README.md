@@ -18,5 +18,3 @@ source scientific software.
 ###Past Presentations
 
 [Week one presentation notebook](http://nbviewer.ipython.org/4724581)
-
-[Week two presentation: Gabriel Pratt](https://github.com/ucsd-scientific-python/user-group/blob/master/presentations/Week2/20130409_python_user_group_testing.pdf) 
