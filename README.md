@@ -19,16 +19,16 @@ source scientific software.
 
 ####February 6, 2013
 
-##### Presenter: Andy Gross
+###### A tour of the scientific Python stack.
 
-A tour of the scientific Python stack. [Presentation notebook](http://nbviewer.ipython.org/4724581)
+Presenter: Andrew Gross.  [Presentation notebook](http://nbviewer.ipython.org/4724581)
 
 #### April 10th, 2013
 
 ###### Software development for Python in 30 minutes
 
-Presenter: Gabriel Pratt
+Presenter: Gabriel Pratt.  [slides](https://github.com/ucsd-scientific-python/user-group/blob/master/presentations/Week2/20130409_python_user_group_testing.pdf)
 
-###### Implementing graphic design principles in matplotlib [slides](https://github.com/ucsd-scientific-python/user-group/blob/master/presentations/Week2/20130409_python_user_group_testing.pdf)
+###### Implementing graphic design principles in matplotlib 
 
 Presenter: Olga Botvinnik. View the iPython notebook of the presentation [here](http://nbviewer.ipython.org/5357268).
