@@ -19,7 +19,9 @@ source scientific software.
 
 ####February 6, 2013
 
-[Meeting one presentation notebook](http://nbviewer.ipython.org/4724581)
+##### Presenter: Andy Gross
+
+A tour of the scientific Python stack. [Presentation notebook](http://nbviewer.ipython.org/4724581)
 
 #### April 10th, 2013
 
@@ -27,6 +29,6 @@ source scientific software.
 
 Presenter: Gabriel Pratt
 
-###### Implementing graphic design principles in matplotlib
+###### Implementing graphic design principles in matplotlib [slides](https://github.com/ucsd-scientific-python/user-group/blob/master/presentations/Week2/20130409_python_user_group_testing.pdf)
 
 Presenter: Olga Botvinnik. View the iPython notebook of the presentation [here](http://nbviewer.ipython.org/5357268).
