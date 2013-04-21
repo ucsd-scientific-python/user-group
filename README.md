@@ -1,7 +1,7 @@
 UCSD Scientific Python User Group
 ==========
 
-###Mission
+### Mission
 
 The Scientific Python User Group was created to foster an informal environment for students to learn
 more about the constantly expanding scientific Python ecosystem. We plan to have monthly meeting
@@ -15,9 +15,15 @@ skipped over in traditional research presentations.
  * To encourage use and contribution to open-
 source scientific software.
 
-###Past Presentations
+### Mailing List
 
-####February 6, 2013
+Sign up to receive email notifications for meetings:
+
+https://groups.google.com/forum/?hl=en&fromgroups#!forum/ucsd-scientific-python
+
+### Past Presentations
+
+#### February 6, 2013
 
 ###### A tour of the scientific Python stack.
 
