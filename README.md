@@ -38,3 +38,9 @@ Presenter: Gabriel Pratt.  [slides](https://github.com/ucsd-scientific-python/us
 ###### Implementing graphic design principles in matplotlib 
 
 Presenter: Olga Botvinnik. View the iPython notebook of the presentation [here](http://nbviewer.ipython.org/5357268).
+
+#### May 1, 2013
+
+###### Building Networks from the Scriptures + An Overview of EPD Canopy 
+
+Presenter: Gordon Bean.  View the iPython notebook of the presentation [here](http://nbviewer.ipython.org/5528615).
