@@ -1,6 +1,12 @@
 UCSD Scientific Python User Group
 ==========
 
+***Next meeting: 
+Wednesday October 10th 2013
+11:30am-12:30pm
+Skaggs School of Pharmacy
+Room 1186***
+
 ### Mission
 
 The Scientific Python User Group was created to foster an informal environment for students to learn
