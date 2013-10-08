@@ -2,7 +2,7 @@ UCSD Scientific Python User Group
 ==========
 
 ***Next meeting: 
-Wednesday October 10th 2013
+Wednesday October 16th 2013
 11:30am-12:30pm
 Skaggs School of Pharmacy
 Room 1186***
