@@ -56,3 +56,8 @@ Presenter: Gordon Bean.  View the iPython notebook of the presentation [here](ht
 ###### [Overview](http://nbviewer.ipython.org/7011818)
 
 ###### Bootstrap in the IPython Notebook [nbviewer](http://nbviewer.ipython.org/6872113)
+
+Presenter: Andy Gross
+
+###### Fancy heatmaps in Matplotlib using GridSpec [nbviewer](http://nbviewer.ipython.org/urls/raw.github.com/ucsd-scientific-python/user-group/master/presentations/20131016/hierarchical_clustering_heatmaps_gridspec.ipynb)
+Presenter: Chris DeBoever
