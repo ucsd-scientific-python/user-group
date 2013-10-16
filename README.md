@@ -54,3 +54,5 @@ Presenter: Gordon Bean.  View the iPython notebook of the presentation [here](ht
 #### October 16, 2013
 
 ###### [Overview](http://nbviewer.ipython.org/7011818)
+
+###### Bootstrap in the IPython Notebook [nbviewer](http://nbviewer.ipython.org/6872113)
