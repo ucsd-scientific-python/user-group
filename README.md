@@ -50,3 +50,7 @@ Presenter: Olga Botvinnik. View the iPython notebook of the presentation [here](
 ###### Building Networks from the Scriptures + An Overview of EPD Canopy 
 
 Presenter: Gordon Bean.  View the iPython notebook of the presentation [here](http://nbviewer.ipython.org/5528615).
+
+#### October 16, 2013
+
+###### [Overview](http://nbviewer.ipython.org/7011818)
