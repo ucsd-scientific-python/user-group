@@ -67,3 +67,5 @@ Presenter: Chris DeBoever
 ###### Getting IPython Notebook setup in a server and deploying user-specific notebooks.
 
 Presenter: Justin Kiggins.  
+
+###### [Show and Tell](https://github.com/ucsd-scientific-python/user-group/blob/master/Show_And_Tell/README.md)
