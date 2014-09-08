@@ -63,3 +63,7 @@ Presenter: Andy Gross
 Presenter: Chris DeBoever
 
 #### September 11, 2014
+
+###### Getting IPython Notebook setup in a server and deploying user-specific notebooks.
+
+Presenter: Justin Kiggins.  
