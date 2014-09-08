@@ -61,3 +61,5 @@ Presenter: Andy Gross
 
 ###### Fancy heatmaps in Matplotlib using GridSpec [nbviewer](http://nbviewer.ipython.org/urls/raw.github.com/ucsd-scientific-python/user-group/master/presentations/20131016/hierarchical_clustering_heatmaps_gridspec.ipynb)
 Presenter: Chris DeBoever
+
+#### September 11, 2014
