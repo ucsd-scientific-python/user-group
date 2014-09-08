@@ -12,4 +12,3 @@ Quick plug for reproducable workflow for recently published paper.
 * [Paper](http://www.nature.com/ng/journal/v46/n9/full/ng.3051.html) 
 * [Github Repo](https://github.com/theandygross/TCGA)
 * [NBviewer](http://nbviewer.ipython.org/github/theandygross/TCGA/blob/master/Analysis_Notebooks/Index.ipynb)
-* 
